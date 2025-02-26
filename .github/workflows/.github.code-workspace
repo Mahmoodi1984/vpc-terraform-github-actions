@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../vpc-terraform-github-actions"
+		}
+	]
+}
